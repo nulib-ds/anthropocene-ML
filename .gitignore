@@ -1,0 +1,4 @@
+venv/
+anthropocene/
+slurm*
+newsGroupModel
