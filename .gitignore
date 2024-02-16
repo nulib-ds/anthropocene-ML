@@ -1,7 +1,6 @@
 output.html
 anthropoceneCodebase/output.html
-anthropoceneData/topic_model
-anthropoceneData/chroniclingAmerica
+anthropoceneData/
 anthropoceneVenv/
 slurm*
 __pycache__
