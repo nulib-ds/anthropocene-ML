@@ -1,4 +1,8 @@
-venv/
-anthropocene/
+output.html
+anthropoceneCodebase/output.html
+anthropoceneData/topic_model
+anthropoceneData/chroniclingAmerica
+anthropoceneVenv/
 slurm*
-newsGroupModel
+__pycache__
+
