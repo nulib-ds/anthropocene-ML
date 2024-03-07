@@ -9,7 +9,7 @@ processor = OwlViTProcessor.from_pretrained("google/owlvit-base-patch32")
 model = OwlViTForObjectDetection.from_pretrained("google/owlvit-base-patch32")
 
 # Directory containing the JPEG images
-directory = "/home/ysc4337/aerith/anthropocene_ML/aws_try_2/2023_backup/projects/multimedia_anthropocene/object_detection/screenshot_data/0A0BC23A/"
+directory = "/home/ysc4337/aerith/anthropocene_ML/aws_try_2/2023_backup/projects/multimedia_anthropocene/object_detection/screenshot_data/"
 
 # Iterate over each file in the directory
 for filename in os.listdir(directory):
